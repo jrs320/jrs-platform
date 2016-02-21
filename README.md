@@ -1,0 +1,3 @@
+# jrs-platform
+
+study webpack 
