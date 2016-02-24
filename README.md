@@ -1,3 +1,3 @@
 # jrs-platform
 
-study webpack 
+build my project with `webpack` 
